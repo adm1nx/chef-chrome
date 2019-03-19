@@ -16,7 +16,7 @@ to set user preferences.
 
 ## Requirements
 
-Chef 12.14+
+Chef 14+
 
 ### Platforms
 
@@ -24,10 +24,6 @@ Chef 12.14+
 - Debian, Ubuntu
 - Mac OS X
 - Windows
-
-### Cookbooks
-
-- dmg - used by Mac OS X platform 
 
 ## Usage
 
